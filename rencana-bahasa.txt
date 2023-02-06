@@ -3,6 +3,9 @@ Rencana Bahasa
 - JS DOM
 - Modern JS
 - framework JS
+  ^ vue JS
+  ^ Angular
 - framework PHP
   ^ laraverl
   ^ codeignitere
+
