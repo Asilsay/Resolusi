@@ -1,0 +1,3 @@
+Rencana Bahasa
+- Belajar bahasa JS
+- Belajar bahasa PHP native
