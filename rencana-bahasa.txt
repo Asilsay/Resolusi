@@ -1,6 +1,8 @@
 Rencana Bahasa
 - Belajar bahasa JS
-- Belajar bahasa PHP native
 - JS DOM
 - Modern JS
 - framework JS
+- framework PHP
+  ^ laraverl
+  ^ codeignitere
