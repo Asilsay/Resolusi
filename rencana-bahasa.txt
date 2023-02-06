@@ -3,3 +3,4 @@ Rencana Bahasa
 - Belajar bahasa PHP native
 - JS DOM
 - Modern JS
+- framework JS
